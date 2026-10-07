@@ -14,7 +14,6 @@ The exercises cover creating arrays, accessing and modifying elements, adding an
 - `includes()`
 - `Array.isArray()`
 - `concat()`
-- `console.log()`
 
 ## 📝 Tasks
 
@@ -76,15 +75,6 @@ The exercises cover creating arrays, accessing and modifying elements, adding an
 - Visual Studio Code
 - Browser Console / Node.js
 
-## 📂 Project Structure
-
-```text
-javascript-array-practice/
-│
-├── index.js
-└── README.md
-```
-
 ## ▶️ How to Run
 
 ### Using Node.js
@@ -92,7 +82,7 @@ javascript-array-practice/
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/infapk02/array-task-js.git
 ```
 
 2. Open the project folder:
